@@ -1,7 +1,6 @@
-ddxq-native
-======
+ddxq-stat
+==========
 
-## api
+native
 
-
-## usage
+----------
